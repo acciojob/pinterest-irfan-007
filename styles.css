@@ -16,4 +16,6 @@ button{
 	background-color:darkred;
 	color:white;
 	border-radius:15px;
+	border:2px solid black;
+	outline:3px solid darkred;
 }
